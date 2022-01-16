@@ -13,6 +13,7 @@ export * from './components/Icon/icons/IconMail/index'
 export * from './components/Icon/icons/IconInbox/index'
 export * from './components/Icon/icons/IconLock/index'
 export * from './components/Icon/icons/IconCopy/index'
+export * from './components/Icon/icons/IconAlertCircle/index'
 
 // main component
 
